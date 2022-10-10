@@ -4,7 +4,7 @@
 <img src="https://user-images.githubusercontent.com/114340458/192722322-62ae3202-1d08-4d99-b800-d3c56da5e00d.png" width=900px>
 <p/>
 
-## GnomesLand is a NFT project in support of the GnoLand blockchain.
+## GnomesLand is a NFT project in support of the GnoLand ecosystem.
 
 Gnomes will spread the values and messages behind GnoLand to get support in our fight against the globalist takeover. Recent years are showing us that people, including many that are into blockchain and crypto are blindly accepting the corporate greed with their political influences.
 
