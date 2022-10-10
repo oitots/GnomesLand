@@ -26,9 +26,12 @@ We can not afford to let the globalists play the “divide and conquer” game a
 
 ## The NFT’s in the Land of Gnomes and their goal.
 
-As mentioned before we’re actually only 2 main artists/designers, OiKeii and my teenage daughter. We love art and don’t want to bring the same kind of randomised NFT’s of a head and some stock accessories to you. We’re working hard to bring something worthwhile to the people. I don’t want to give out to much alpha yet so we will reveal everything in slow motion, starting with simple silhouettes to great cartoons all the way up to the Metaverse.
+As mentioned before we’re actually only 2 main artists/designers, OiKeii and my teenage daughter. We love art and don’t want to bring the same kind of randomised NFT’s of a head and some stock accessories to you. We’re working hard to bring something worthwhile to the people. I don’t want to give out to much alpha yet so we will reveal everything in slow motion, starting with simple silhouettes to great cartoons all the way up to the 3D collections for the Metaverse, if everything goes as planned and people see the true value behind the project.
 
 I can however already tell you that only a small percentage of the potential generated income, will go to the artists. The rest will be split between supporting the GnoLand ecosystem and sponsoring non-profits for people with mental health problems. These non-profit projects will be thoroughly inspected, if they’re already subsidised by the government or others, if they don’t waste half or more of the donations on bureaucracy and directors and what they actually mean for the people they claim to help. To many NGO’s are money making machines and we don’t want to support those “fake non-profits”.
+
+We'de like to create the "Gift of Oi!" within the GnoLand ecosystem. It's a project where I wrote the [black paper](https://oination.com/blackpaper.pdf) in the summer of 2021 and have been searching ever since for the right ecosystem or chain and developers, who hold similar values and ideas to work with. Blockchain at the moment is failing to help the ordinary non-tech people in many ways. The idea behind Bitcoin and crypto in general was to create a seperate economy, away from the powers that be.
+This is not really happening, blockchains should not just be about DeFi, blochains should create easy to use utilities for people to use in every day life away from the power of the globalits. 
 
 All this will be discussed through governance in a DAO and completely transparent of course. Gnomes NFT holders will automatically be part of the DAO and have voting power.
 
